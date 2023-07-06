@@ -1,7 +1,5 @@
 # Welcome to Arxma
 
-[![Arxma Logo](https://www.arxma.eu/images/ARXMA_LOGO_17_final-Kopie2.png)](https://arxma.com)
-
 Arxma is an innovative tech organization that is using the newes Artificial Intelligence technologies to leverage its full potential. We strive to discover big datasets to unleash the full potential of the underlying data sources. Our mission is to unlock the potential of data and AI to drive scalable solutions for businesses and individuals. globally.
 
 ## What We Do
