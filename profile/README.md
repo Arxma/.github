@@ -1,6 +1,6 @@
 # Welcome to Arxma
 
-Arxma is an innovative tech organization that is using the newes Artificial Intelligence technologies to leverage its full potential. We strive to discover big datasets to unleash the full potential of the underlying data sources. Our mission is to unlock the potential of data and AI to drive scalable solutions for businesses and individuals. globally.
+Arxma is an innovative tech organization that is using the newest Artificial Intelligence technologies to leverage its full potential. We strive to discover big datasets to unleash the full potential of the underlying data sources. Our mission is to unlock the potential of data and AI to drive scalable solutions for businesses and individuals. globally.
 
 ## What We Do
 
